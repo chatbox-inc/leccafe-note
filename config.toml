@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = ""
+languageCode = "ja-JP"
+title = "LecCafe 講義ノート"
 theme = "jane"
+
 #pygmentsCodeFences = true
 PygmentsCodeFences = true
 PygmentsUseClasses = true # Use CSS classes to format highlighted code
@@ -16,6 +17,9 @@ PygmentsOptions = "linenos=table"
   priority = 0.5
   filename = "sitemap.xml"
 
+[params.gitInfo]
+    gitRepo = "https://github.com/chatbox-inc/leccafe-note"
+    showCommitMessage = true
 
 
 [[menu.main]]             # config your menu              # 配置目录

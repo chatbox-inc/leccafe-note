@@ -1,5 +1,7 @@
 ---
 title: Laravel と ログの取扱い
+categories:
+ - Laravel
 tag: 
  - Laravel
 date: 2018-10-18

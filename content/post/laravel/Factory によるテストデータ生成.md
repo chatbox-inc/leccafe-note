@@ -1,5 +1,7 @@
 ---
 title: Factory によるテストデータ生成
+categories:
+ - Laravel
 tags:
  - Laravel 
 date: 2019-02-15T00:00:00+09:00
