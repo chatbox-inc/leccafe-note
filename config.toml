@@ -1,0 +1,44 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "jane"
+#pygmentsCodeFences = true
+PygmentsCodeFences = true
+PygmentsUseClasses = true # Use CSS classes to format highlighted code
+PygmentsCodefencesGuessSyntax = true
+PygmentsOptions = "linenos=table"
+
+[author]                  # essential                     # 必需
+  name = "mikakane"
+
+[sitemap]                 # essential                     # 必需
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+
+[[menu.main]]             # config your menu              # 配置目录
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+[[menu.main]]
+  name = "external-link"
+  weight = 50
+  url = "https://gohugo.io"
