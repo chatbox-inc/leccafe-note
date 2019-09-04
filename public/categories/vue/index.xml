@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue on My New Hugo Site</title>
+    <link>http://example.org/categories/vue/</link>
+    <description>Recent content in Vue on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/categories/vue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vue.js で利用する Bootstrap のモーダル</title>
+      <link>http://example.org/post/vuejs/vue.js-%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-bootstrap-%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vue.js-%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-bootstrap-%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</guid>
+      <description>Vue.js で Bootstrap のモーダルを利用する方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>VuePressでドキュメントを生成する</title>
+      <link>http://example.org/post/vuejs/vuepress-%E3%81%A7%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%94%9F%E6%88%90/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuepress-%E3%81%A7%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%94%9F%E6%88%90/</guid>
+      <description>Vue.js 製のドキュメント生成ツール VuePress を使ってドキュメントサイトを作成してみましょう。</description>
+    </item>
+    
+    <item>
+      <title>VueScrollTo の使いかた</title>
+      <link>http://example.org/post/vuejs/vuescrollto-%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%8B%E3%81%9F/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuescrollto-%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%8B%E3%81%9F/</guid>
+      <description>Vue.js でスクロール処理をするための モジュール vue scrollTo の紹介です。</description>
+    </item>
+    
+    <item>
+      <title>Vue.js アプリケーションのサイト内スクロール制御</title>
+      <link>http://example.org/post/vuejs/vuesmoothscroll/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuesmoothscroll/</guid>
+      <description>vue smooth scroll プラグインを利用して Vue.js アプリケーションにサイト内スクロールの制御をいれる方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>v-html にマークダウン文字列を挿入する</title>
+      <link>http://example.org/post/vuejs/markdown_on_vhtml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/markdown_on_vhtml/</guid>
+      <description>カスタムディレクティブを使って、v-htmlにMD文字列を渡す方法の紹介</description>
+    </item>
+    
+  </channel>
+</rss>

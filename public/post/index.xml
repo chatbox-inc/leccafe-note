@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laravelにおけるトランザクション</title>
+      <link>http://example.org/post/laravel/laravel-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/laravel/laravel-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B6%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/</guid>
+      <description>Laravel におけるトランザクションの設定方法などを紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Vue.js で利用する Bootstrap のモーダル</title>
+      <link>http://example.org/post/vuejs/vue.js-%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-bootstrap-%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vue.js-%E3%81%A7%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B-bootstrap-%E3%81%AE%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB/</guid>
+      <description>Vue.js で Bootstrap のモーダルを利用する方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Factory によるテストデータ生成</title>
+      <link>http://example.org/post/laravel/factory-%E3%81%AB%E3%82%88%E3%82%8B%E3%83%86%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E7%94%9F%E6%88%90/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>http://example.org/post/laravel/factory-%E3%81%AB%E3%82%88%E3%82%8B%E3%83%86%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E7%94%9F%E6%88%90/</guid>
+      <description>Laravel 5.6 から導入された新しいログのハンドリング方法について紹介してきます。</description>
+    </item>
+    
+    <item>
+      <title>VuePressでドキュメントを生成する</title>
+      <link>http://example.org/post/vuejs/vuepress-%E3%81%A7%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%94%9F%E6%88%90/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuepress-%E3%81%A7%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%94%9F%E6%88%90/</guid>
+      <description>Vue.js 製のドキュメント生成ツール VuePress を使ってドキュメントサイトを作成してみましょう。</description>
+    </item>
+    
+    <item>
+      <title>Laravel Telescope</title>
+      <link>http://example.org/post/laravel/telescope/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/laravel/telescope/</guid>
+      <description>Laravel 5.7 から導入されたTeleScope の利用方法について解説します。</description>
+    </item>
+    
+    <item>
+      <title>VueScrollTo の使いかた</title>
+      <link>http://example.org/post/vuejs/vuescrollto-%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%8B%E3%81%9F/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuescrollto-%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%8B%E3%81%9F/</guid>
+      <description>Vue.js でスクロール処理をするための モジュール vue scrollTo の紹介です。</description>
+    </item>
+    
+    <item>
+      <title>axios モジュールの使い方</title>
+      <link>http://example.org/post/nuxtjs/axios-%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/axios-%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <description>Axios モジュールで Nuxt.js アプリケーションの REST 発行周りを管理する手法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Laravel と ログの取扱い</title>
+      <link>http://example.org/post/laravel/laravel-%E3%81%AE%E3%83%AD%E3%82%B0%E5%87%A6%E7%90%86/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/laravel/laravel-%E3%81%AE%E3%83%AD%E3%82%B0%E5%87%A6%E7%90%86/</guid>
+      <description>Laravel 5.6 から導入された新しいログのハンドリング方法について紹介してきます。</description>
+    </item>
+    
+    <item>
+      <title>Auth Modules で認証機構を実装する</title>
+      <link>http://example.org/post/nuxtjs/auth-modules-%E3%81%A7%E8%AA%8D%E8%A8%BC%E6%A9%9F%E6%A7%8B%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/auth-modules-%E3%81%A7%E8%AA%8D%E8%A8%BC%E6%A9%9F%E6%A7%8B%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B/</guid>
+      <description>Nuxt.js で Auth Module を利用して 認証付きアプリケーションを構築する手法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Nuxt.js で エラーページを作成する。</title>
+      <link>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B/</guid>
+      <description>Nuxt.js でのエラーページの実装方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Nuxt.js 2.0 の変更点を確認してみる</title>
+      <link>http://example.org/post/nuxtjs/vue-smooth-scroll/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/vue-smooth-scroll/</guid>
+      <description>先日リリースされたNuxt2 の機能の一部を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Nuxt.js に Bootstrap を追加する</title>
+      <link>http://example.org/post/nuxtjs/nuxt.js%E3%81%AB-bootstrap-%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B/</link>
+      <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/nuxt.js%E3%81%AB-bootstrap-%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B/</guid>
+      <description>Nuxt.js に Bootstrap を追加する方法をいくつか紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Nuxt.js で Yaml のコンテンツファイルを差し込む</title>
+      <link>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7yaml%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7yaml%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80/</guid>
+      <description>Nuxt.js に Yaml で作ったコンテンツファイルや設定ファイルを差し込む方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Vue.js アプリケーションのサイト内スクロール制御</title>
+      <link>http://example.org/post/vuejs/vuesmoothscroll/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/vuesmoothscroll/</guid>
+      <description>vue smooth scroll プラグインを利用して Vue.js アプリケーションにサイト内スクロールの制御をいれる方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>Vuex のデータをローカルストレージに格納する</title>
+      <link>http://example.org/post/nuxtjs/vuex-persist/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/vuex-persist/</guid>
+      <description>Vue.jsアプリケーションのデータをシンプルに localStorage に格納してみましょう。</description>
+    </item>
+    
+    <item>
+      <title>Nuxt.js のフロントエラーをrollbar で収集する</title>
+      <link>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC%E5%8F%8E%E9%9B%86/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7%E3%82%A8%E3%83%A9%E3%83%BC%E5%8F%8E%E9%9B%86/</guid>
+      <description>Nuxt.js で rollbar を使って フロントのエラーを収集する方法を紹介します。</description>
+    </item>
+    
+    <item>
+      <title>v-html にマークダウン文字列を挿入する</title>
+      <link>http://example.org/post/vuejs/markdown_on_vhtml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/vuejs/markdown_on_vhtml/</guid>
+      <description>カスタムディレクティブを使って、v-htmlにMD文字列を渡す方法の紹介</description>
+    </item>
+    
+  </channel>
+</rss>

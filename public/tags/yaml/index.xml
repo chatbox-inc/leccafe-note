@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yaml on My New Hugo Site</title>
+    <link>http://example.org/tags/yaml/</link>
+    <description>Recent content in yaml on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nuxt.js で Yaml のコンテンツファイルを差し込む</title>
+      <link>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7yaml%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/nuxtjs/nuxt.js-%E3%81%A7yaml%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80/</guid>
+      <description>Nuxt.js に Yaml で作ったコンテンツファイルや設定ファイルを差し込む方法を紹介します。</description>
+    </item>
+    
+  </channel>
+</rss>
