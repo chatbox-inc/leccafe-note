@@ -1,6 +1,8 @@
 ---
 title: Laravel Telescope
-tag: 
+categories:
+ - Laravel
+tags: 
  - Laravel
 date: 2019-01-28
 summary: | 

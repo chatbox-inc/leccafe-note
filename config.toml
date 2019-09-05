@@ -10,7 +10,7 @@ PygmentsCodefencesGuessSyntax = true
 PygmentsOptions = "linenos=table"
 
 [author]                  # essential                     # 必需
-  name = "mikakane"
+  name = "lec cafe"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -46,3 +46,28 @@ PygmentsOptions = "linenos=table"
   name = "external-link"
   weight = 50
   url = "https://gohugo.io"
+
+[params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
+    enable = true
+    repo = "chatbox-inc/leccafe-note"    # The repo to store comments
+    issueTerm = "pathname"
+
+[params.social]                                         # 社交链接
+#    a-email = "mailto:your@email.com"
+#    b-stack-overflow = "http://localhost:1313"
+#    c-twitter = "http://localhost:1313"
+    d-facebook = "http://google.com"
+#    e-linkedin = "http://localhost:1313"
+#    f-google = "http://localhost:1313"
+#    g-github = "http://localhost:1313"
+#    h-weibo = "http://localhost:1313"
+#    i-zhihu = "http://localhost:1313"
+#    j-douban = "http://localhost:1313"
+#    k-pocket = "http://localhost:1313"
+#    l-tumblr = "http://localhost:1313"
+#    m-instagram = "http://localhost:1313"
+#    n-gitlab = "http://localhost:1313"
+#    o-goodreads = "http://localhost:1313"
+#    p-coding = "http://localhost:1313"
+#    q-bilibili = "http://localhost:1313"
+#    r-codeforces = "http://localhost:1313"
